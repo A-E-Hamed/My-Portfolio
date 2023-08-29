@@ -34,7 +34,7 @@ import {
     );
   };
   
-  const Skills = ({color}) => {
+  const Dummy = ({color}) => {
     const skills = SkillsArray();
     const borderColor = useColorModeBg("gray.100", "gray.700");
     
@@ -89,5 +89,5 @@ import {
     );
   };
   
-  export default Skills;
+  export default Dummy;
   
