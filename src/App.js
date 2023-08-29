@@ -10,6 +10,7 @@ import Skills from './components/Skills';
 
 function App() {
   const color = "teal";
+  //test
 
   return (
     <>
