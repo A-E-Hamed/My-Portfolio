@@ -61,7 +61,7 @@ const Skills = ({color}) => {
           <Heading mb={8}>Here is my technical skills</Heading>
           
           </Stack>
-          {/* <Flex >
+          <Flex >
             {Object.entries(skills).map(([section, sectionSkills]) => (
               <Stack
                 key={section}
@@ -82,7 +82,7 @@ const Skills = ({color}) => {
                 })}
               </Stack>
             ))}
-          </Flex> */}
+          </Flex>
         </Stack>
       </SimpleGrid>
     </Container>

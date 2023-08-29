@@ -28,7 +28,7 @@ const SkillsArray = () => {
   const [skills, setSkills] = useState({});
 
   useEffect(() => {
-    fetch("/content/skills.md")
+    fetch("/content/Skills.md")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");
