@@ -22,7 +22,6 @@ Introducing our innovative food order app, built using React and Firebase. Exper
 - Buttons:
   - Live Test [https://order-app-gilt.vercel.app/]
 
-
 ## Ingredient Guru
 Ingredient Guru is a convenient web app that generates random recipes based on the ingredients you have available. Simply enter your ingredients, select meal and dish types, and let Ingredient Guru suggest a creative and delicious recipe for you to try.
 - ![Ingredient Guru](/assets/ingredentGuru.png)
